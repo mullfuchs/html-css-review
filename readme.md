@@ -63,7 +63,10 @@ IMG is a self-closing tag, div requires and opening and closing tag
 ```
 
 ```
-first applies only within the tag, the second affects all divs only on that page, the third is for all pages that link to that css file. The order of which rule is applied is CSS Page -> Style Tags with page -> Style markup within div. 
+first applies only within the tag, 
+the second affects all divs only on that page, 
+the third is for all pages that link to that css file. 
+The order of which rule is applied is CSS Page -> Style Tags with page -> Style markup within div. 
 ```
 
 2.) Below are some different CSS selectors. Use CSS comments to describe what each selector will do.
